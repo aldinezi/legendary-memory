@@ -5,9 +5,6 @@ with specific title and image. It contains of two main parst Todo list(tasks tha
 and Done list(tasks that are completed).
 Once when task is completed it can be moved to done list, completed task can also be moved back from todo to done list.
 
-## Demo
-
-<https://todobox.netlify.com/>
 
 ### Demo login data
 
