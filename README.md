@@ -59,7 +59,7 @@ After installation of packages, you can compile project for developement or prod
 ### Compiles and hot-reloads for development
 
 ```bash
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
