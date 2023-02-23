@@ -36,16 +36,12 @@ This project is developed using Vue.js framework.
 
 ### Clone and installation
 
-Clone this project to local machine using comand:
-
-```bash
-git clone https://github.com/salkao/ToDoBox-Vue.git
-```
+Clone this project to local machine 
 
 Navigate to projects folder:
 
 ```bash
-cd todobox-vue
+cd legendary-memory
 ```
 
 To install all required packages that application uses run command:
